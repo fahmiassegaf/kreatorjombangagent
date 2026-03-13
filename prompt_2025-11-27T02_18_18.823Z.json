@@ -1,0 +1,13 @@
+[
+  {
+    "id": 688,
+    "author": "user",
+    "payload": {
+      "type": "restored",
+      "snapshotTitle": "Loaded app",
+      "done": {}
+    },
+    "createdTimestamp": 1764209898010,
+    "doneTimestamp": 1764209898010
+  }
+]
